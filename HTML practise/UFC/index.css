@@ -24,3 +24,7 @@ a:hover, a:active{
     background-color: red;
     color:black;
 }
+
+#MainCard > h4{
+    font-size: larger;
+}
