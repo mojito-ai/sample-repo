@@ -2,3 +2,10 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: thistle;
 }
+
+body>header>h1{
+    color:rgb(245, 209, 9);
+    background-color: black ;
+    text-align: center;
+    margin-bottom: 10px;
+}
